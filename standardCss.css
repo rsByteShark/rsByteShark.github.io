@@ -1,0 +1,16 @@
+html {
+    height: 100vh;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #ffffff;
+    background: #242424;
+    /* background: linear-gradient(to bottom, #1a1a1a, #333333); */
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    user-select: none;
+}
